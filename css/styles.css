@@ -1,1 +1,26 @@
 /* Your Styling */
+
+.container {
+	margin: 0 auto;
+	width: 50%;
+
+}
+
+h1, h2 {
+	font-family: 'Josefin Sans', sans-serif;
+	text-transform: uppercase;
+}
+
+p, li {
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.dropcap {
+	background: olive;
+	color: black;
+	font-size: 5em;
+	float: left;
+	padding: .025em;
+	margin: .025em;
+
+}
